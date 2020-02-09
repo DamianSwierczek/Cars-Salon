@@ -19,6 +19,4 @@ public class Client {
 
         picker.pickCar(customer);
         }
-
-
 }
